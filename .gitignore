@@ -65,3 +65,6 @@ test.py
 # files generated when publishing to PyPI
 dist/
 MANIFEST
+
+# R-G resources
+resources/
